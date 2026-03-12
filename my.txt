@@ -4,3 +4,7 @@
 2)Aim: Feature Scaling and Dummification. 
 ● Apply feature-scaling techniques like standardization and normalization to numerical features. - scaling
 ● Perform feature dummification to convert categorical variables into numerical representations. 
+3)AIM: Hypothesis Testing 
+● Formulate null and alternative hypotheses for a given problem.  
+● Conduct a hypothesis test using appropriate statistical tests (e.g., t-test, chi-square test).  - hypothesis
+● Interpret the results and draw conclusions based on the test outcomes. 
