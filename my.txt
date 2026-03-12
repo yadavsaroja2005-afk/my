@@ -1,1 +1,6 @@
-AIM: Data Frames and Basic Data Pre-processing -dataframe
+1)AIM: Data Frames and Basic Data Pre-processing - dataframe
+
+
+2)Aim: Feature Scaling and Dummification. 
+● Apply feature-scaling techniques like standardization and normalization to numerical features. - scaling
+● Perform feature dummification to convert categorical variables into numerical representations. 
